@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  },
+  "name": "assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon ssindex.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
