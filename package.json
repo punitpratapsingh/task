@@ -9,7 +9,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon ssindex.js"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
